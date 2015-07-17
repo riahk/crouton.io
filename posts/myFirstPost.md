@@ -1,1 +1,10 @@
-This is your first post!
+---
+title: HELLO YES THIS IS DOG
+---
+
+yeayeayeayeayea
+
+```
+var yes = 'yes';
+console.log(yes);
+```
